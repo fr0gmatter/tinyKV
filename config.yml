@@ -1,0 +1,12 @@
+pyms:
+#  services:
+#    requests:
+#      data: ''
+#    swagger:
+      #path: ''
+      #file: swagger.yaml
+  config:
+    DEBUG: true
+    TESTING: true
+    APP_NAME: Teeny Url Microservice
+    APPLICATION_ROOT: ''
